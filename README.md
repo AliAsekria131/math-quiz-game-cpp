@@ -15,3 +15,6 @@ A console-based math quiz game where the player answers randomly generated quest
 ## Course
 Algorithms & Problem Solving – Level 2
 by Mohammed Abu Hudhud | ProgrammingAdvices
+
+## Preview
+![Game Preview](math-quiz-game-cpp.PNG)
